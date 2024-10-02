@@ -4,8 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07d42a53-59c3-4250-9121-3ff702cbe3c0" name="Changes" comment="Base project structure.">
-      <change afterPath="$PROJECT_DIR$/project_plan.md" afterDir="false" />
+    <list default="true" id="07d42a53-59c3-4250-9121-3ff702cbe3c0" name="Changes" comment="Project plan.">
+      <change afterPath="$PROJECT_DIR$/datasets/image_classification_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inference/image_classification_inferencer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/image_classification_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training/image_classification_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/model_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/model_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/optimizer_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/optimizer_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/base_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/base_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/domain1_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/domain2_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/domain2_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/domain3_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/domain3_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/base_inferencer.py" beforeDir="false" afterPath="$PROJECT_DIR$/inference/base_inferencer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/domain1_inferencer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/domain2_inferencer.py" beforeDir="false" afterPath="$PROJECT_DIR$/inference/domain2_inferencer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inference/domain3_inferencer.py" beforeDir="false" afterPath="$PROJECT_DIR$/inference/domain3_inferencer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/base_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/base_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/domain1_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/domain2_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/domain2_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/domain3_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/domain3_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optimizers/custom_optimizer1.py" beforeDir="false" afterPath="$PROJECT_DIR$/optimizers/custom_optimizer1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optimizers/custom_optimizer_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/optimizers/custom_optimizer_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/project_plan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/base_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/base_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/domain1_trainer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/domain2_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/domain2_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training/domain3_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/training/domain3_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/logging.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,12 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727229504497</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Project plan.">
+      <option name="closed" value="true" />
+      <created>1727229557944</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727229557944</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
     <MESSAGE value="Base project structure." />
-    <option name="LAST_COMMIT_MESSAGE" value="Base project structure." />
+    <MESSAGE value="Project plan." />
+    <option name="LAST_COMMIT_MESSAGE" value="Project plan." />
   </component>
 </project>
